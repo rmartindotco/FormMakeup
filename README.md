@@ -1,4 +1,4 @@
 FormMakeup
 ==========
 
-Go Here https://github.com/intridea/FormMakeup
+Find it here https://github.com/intridea/FormMakeup
